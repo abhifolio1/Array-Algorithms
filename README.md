@@ -1,7 +1,8 @@
 # Data-Structure
 <h3><font color:'blue',size:'8'>Data structures and algorithms with explanations</font></h3>
 <h3>Arrays</h3>
-<img src="https://i.gifer.com/GxWJ.gif">
+<img src="https://i.makeagif.com/media/11-29-2015/Uf4BMe.gif">
+<hr>
 <h3>Linked List</h3>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200318172830/ezgif.com-gif-maker2.gif">
 <hr>
