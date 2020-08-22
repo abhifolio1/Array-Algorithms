@@ -9,5 +9,8 @@
 <h3>Binary Tree</h3>
 <img src="https://s3.amazonaws.com/stackabuse/media/programming-interview-questions-2.gif">
 <hr>
+<h3>Queues</h3>
+<img src="https://i1.faceprep.in/Companies-1/queue-operations.gif">
+<hr>
 <h3>Stacks</h3>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--hD9shGTW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assets2.ello.co/uploads/asset/attachment/5923807/ello-optimized-33f3f778.gif">
