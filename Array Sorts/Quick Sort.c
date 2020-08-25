@@ -39,6 +39,9 @@ Now 70 is at its correct place. All elements smaller than
 70 are before it and all elements greater than 70 are after
 it.
 
+
+Time Complexity : O(n^2)
+
 *******************************************************************************/
 /* C implementation QuickSort */
 #include<stdio.h> 
