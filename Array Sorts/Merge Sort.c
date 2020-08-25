@@ -2,6 +2,7 @@
 
 Merge Sort 
 
+Time Complexity : O(n log(n))
 *******************************************************************************/
 /* C program for Merge Sort */
 #include <stdio.h> 
