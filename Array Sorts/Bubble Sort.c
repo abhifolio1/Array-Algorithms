@@ -1,6 +1,6 @@
 /******************************************************************************
 
-Bubble sort
+BUBBLE SORT
 
 Example array : [5,1,4,2,8] 
 
@@ -8,6 +8,8 @@ Example array : [5,1,4,2,8]
 2nd pass: (1 5 4 2 8) --> (1 4 5 2 8)
 3rd pass: (1 4 5 2 8) --> (1 4 2 5 8)
 4th pass: (1 4 2 5 8) --> (1 2 4 5 8) FUllY SORTED.
+
+Time Complexity : O(n^2)
 
 *******************************************************************************/
 // C program for implementation of Bubble sort 
