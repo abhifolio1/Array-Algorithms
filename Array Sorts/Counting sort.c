@@ -21,6 +21,8 @@ the output sequence.
   Put data 1 at index 2 in output. Decrease count by 1 to place 
   next data 1 at an index 1 smaller than this index.
 
+Time Complexity = O(n+k)
+
 *******************************************************************************/
 // C Program for counting sort 
 #include <stdio.h> 
