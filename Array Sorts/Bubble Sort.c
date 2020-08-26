@@ -57,5 +57,5 @@ int main()
 	bubbleSort(arr,n);
 	printf("The Sorted array is :\n");
 	printArray(arr,n);
-} 
+}  
 
